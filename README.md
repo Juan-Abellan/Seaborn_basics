@@ -12,4 +12,4 @@ This function provides quick access to a small number of example datasets that a
 df = sns.load_dataset('tips')
 
 ## Tools
-For this challenge, we will work with Jypiter Notebook and some Python libraries such as pandas and Seaborn. 
+For this challenge, we will work with Jupyter Notebook and some Python libraries such as pandas and Seaborn. 
